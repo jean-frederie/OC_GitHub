@@ -1,0 +1,20 @@
+header{
+	font-family: "Comic sans MS";
+	margin: 10px;
+}
+
+h2{
+	text-align: center;
+}
+
+section{
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid black
+	border-radius: 10px;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
